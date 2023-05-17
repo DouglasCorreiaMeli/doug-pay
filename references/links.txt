@@ -1,0 +1,2 @@
+https://woocommerce.com/document/payment-gateway-api/
+https://woocommerce.github.io/code-reference/packages/WooCommerce-Classes-Payment.html
