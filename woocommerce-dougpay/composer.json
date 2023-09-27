@@ -1,0 +1,12 @@
+{
+    "name": "dougpay/woocommerce-dougpay",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DougPay\\Woocommerce\\": "src/"
+        }
+    }
+}
